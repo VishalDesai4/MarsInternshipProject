@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MeX+jGCV+zsw1uC0tBT6hFNpeSPNvdRKwwWqw3HL8FAshLcqcu5pJwtBhu9X4EHQjveze+AKO1svAe2udmWR5g==",
+  "dgSpecHash": "s5/UOKhQTa/h1uFZC78v2GR3wUiQAMegOLjAiO4481sgT3aMjRxHuizq0Dgyn/x5sjyV3o+tWRx820bJci6Vww==",
   "success": true,
   "projectFilePath": "C:\\My_IT_Prrojects\\2_Project Mars\\MyFirstMarsTask\\MarsInternshipProject\\MarsInternshipProject\\MarsInternship\\MarsInternship.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\Vishal Desai\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
     "C:\\Users\\Vishal Desai\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Vishal Desai\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Vishal Desai\\.nuget\\packages\\octokit\\8.0.1\\octokit.8.0.1.nupkg.sha512",
     "C:\\Users\\Vishal Desai\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Vishal Desai\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\Vishal Desai\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
