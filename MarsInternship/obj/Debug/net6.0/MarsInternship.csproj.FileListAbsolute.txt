@@ -120,3 +120,4 @@ C:\My_IT_Prrojects\2_Project Mars\MyFirstMarsTask\MarsInternshipProject\MarsInte
 C:\My_IT_Prrojects\2_Project Mars\MyFirstMarsTask\MarsInternshipProject\MarsInternshipProject\MarsInternship\obj\Debug\net6.0\MarsInternship.genruntimeconfig.cache
 C:\My_IT_Prrojects\2_Project Mars\MyFirstMarsTask\MarsInternshipProject\MarsInternshipProject\MarsInternship\obj\Debug\net6.0\ref\MarsInternship.dll
 C:\My_IT_Prrojects\2_Project Mars\MyFirstMarsTask\MarsInternshipProject\MarsInternshipProject\MarsInternship\bin\Debug\net6.0\Octokit.dll
+C:\My_IT_Prrojects\2_Project Mars\MyFirstMarsTask\MarsInternshipProject\MarsInternshipProject\MarsInternship\bin\Debug\net6.0\Docker.DotNet.dll

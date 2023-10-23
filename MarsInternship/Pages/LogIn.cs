@@ -28,7 +28,7 @@ namespace MarsInternship.Pages
                 usernameTextbox.SendKeys("desaivis@gmail.com");
             }
 
-            catch (Exception ex)
+            catch (Exception)
 
             {
                 Assert.Fail("Mars project portal page didnot launch,ex.messsage");
